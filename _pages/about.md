@@ -1,6 +1,6 @@
 ---
 permalink: /about/
-title: "About"
+title: ""
 ---
 
 Hi! I am a Postdoc (supervisor: [Prof. Xiaoying Tang](https://sse.cuhk.edu.cn/en/faculty/tangxiaoying) and [Prof. Yingjun Zhang](https://staff.ie.cuhk.edu.hk/~yjzhang/)) affiliated with SSE at [CUHK-Shenzhen](https://www.cuhk.edu.cn). I am also affiliated with [AIRS](https://airs.cuhk.edu.cn).
