@@ -59,7 +59,7 @@ plugins:
 
 author:
   name   : "Chenxi Sun"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "/assets/images/bio-photo.png"
   #bio    : ""
   links:
     - label: "GitHub"
