@@ -3,7 +3,7 @@ permalink: /research/
 title: ""
 ---
 
-### Recent Publications
+### Publications
 
 
 * [A holistic
