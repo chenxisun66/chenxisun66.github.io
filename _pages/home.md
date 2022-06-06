@@ -18,9 +18,7 @@ My research lies at the intersection of Data Science, Optimization, and Machine 
 * [A holistic
 review on advanced bi-directional ev charging control algorithms](https://), SIGENERGY Energy Inform.
 Rev. \
-  with Xiaoying Tang,  Suzhi Bi, Shuoyao Wang, and Angela Yingjun Zhang. 
-
-    
+  with Xiaoying Tang,  Suzhi Bi, Shuoyao Wang, and Angela Yingjun Zhang.     
 * [Data-driven electric vehicle charging station placement for incentivizing potential demand](https://), IEEE SmartGridComm 2021. \
     with Tongxin Li, and Xiaoying Tang.
     
